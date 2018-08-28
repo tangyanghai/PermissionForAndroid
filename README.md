@@ -1,7 +1,7 @@
 # PermissionForAndroid
 使用AOP注解,动态申请权限,可以在Activity,Fragment和Service中直接使用
 
-#使用方法
+#### 使用方法(Activity,Fragment,Service都一样)
 
       package com.utils.tyh.utils;
 
