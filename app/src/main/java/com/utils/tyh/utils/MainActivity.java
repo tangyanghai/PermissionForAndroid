@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
         //这里可以弹出提示权限作用的对话框
     }
 
-
     /**
      * 权限被拒绝
      *
